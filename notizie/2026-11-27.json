@@ -162,6 +162,15 @@
   "punti": 14
  },
  {
+  "titolo": "COP31 leaders warn grids and storage can’t keep pace with renewable energy growth",
+  "link": "https://www.renewableenergyworld.com/power-grid/cop31-leaders-warn-grids-and-storage-cant-keep-pace-with-renewable-energy-growth/",
+  "data": "2026-11-25T11:00:00+00:00",
+  "sommario": "With more than 2,000 GW of renewable projects awaiting grid connections, industry leaders say infrastructure bottlenecks — not generation costs — are becoming the biggest obstacle to the global energy transition.",
+  "fonte": "Renewable Energy World",
+  "italia": false,
+  "punti": 13
+ },
+ {
   "titolo": "49 avvisi attivi di bandi, gare e annunci per fotovoltaico, BESS e comunità energetiche",
   "link": "https://www.pv-magazine.it/2026/11/27/49-avvisi-attivi-di-bandi-gare-e-annunci-per-fotovoltaico-bess-e-comunita-energetiche/",
   "data": "2026-11-27T09:00:00+00:00",
@@ -189,6 +198,15 @@
   "punti": 13
  },
  {
+  "titolo": "Trends in PV Applications 2026",
+  "link": "https://www.qualenergia.it/pro/documenti/trends-in-pv-applications-2026/",
+  "data": "2026-11-27T09:56:56+00:00",
+  "sommario": "Rapporto IEA PVPS secondo cui la capacità fotovoltaica cumulativa installata a livello globale ha raggiunto 2,96 TW a fine 2025, con circa 690 GW di nuova capacità installati nell’anno e un aumento del 15% rispetto al 2024. La produzione europea di moduli ha coperto meno del 15% della domanda interna. Autori: de l’Epine, M., Kaizuka, I., […] The post Trends in PV Applications 2026 first appeared o",
+  "fonte": "QualEnergia",
+  "italia": true,
+  "punti": 13
+ },
+ {
   "titolo": "The eight procurement considerations when buying a sodium-ion BESS",
   "link": "https://www.energy-storage.news/eight-procurement-considerations-buying-sodium-ion-bess/",
   "data": "2026-11-25T12:21:20+00:00",
@@ -203,24 +221,6 @@
   "data": "2026-11-25T13:12:33+00:00",
   "sommario": "Energy-Storage.news speaks with Trina Storage’s Mike Watson about the company’s genset-BESS solution and its approach to safety.",
   "fonte": "Energy-Storage.news",
-  "italia": false,
-  "punti": 12
- },
- {
-  "titolo": "Gambia signs four solar PPAs totalling 232 MW",
-  "link": "https://www.pv-magazine.com/2026/11/26/gambia-signs-four-solar-ppas-totalling-232-mw/",
-  "data": "2026-11-26T14:15:00+00:00",
-  "sommario": "The Gambia’s state-owned utility has inked four large-scale solar power purchase agreements (PPAs) since late October, with battery storage included in each project. The post Gambia signs four solar PPAs totalling 232 MW appeared first on pv magazine Global .",
-  "fonte": "pv magazine",
-  "italia": false,
-  "punti": 12
- },
- {
-  "titolo": "France triples planned renewable energy auction volume to 1.5 GW",
-  "link": "https://www.pv-magazine.com/2026/11/26/france-triples-planned-renewable-energy-auction-volume-to-1-5-gw/",
-  "data": "2026-11-26T16:23:59+00:00",
-  "sommario": "France will increase the capacity of its upcoming technology-neutral renewable energy auction from 500 MW to 1.5 GW, opening the tender to all renewable power technologies and introducing a common baseload reference price for calculating payments to generators. The post France triples planned renewable energy auction volume to 1.5 GW appeared first on pv magazine Global .",
-  "fonte": "pv magazine",
   "italia": false,
   "punti": 12
  },
@@ -288,21 +288,21 @@
   "punti": 11
  },
  {
+  "titolo": "Kenya records $576 million in Chinese solar cell imports from January-October",
+  "link": "https://www.pv-magazine.com/2026/11/27/kenya-records-576-million-in-chinese-solar-cell-imports-from-january-october/",
+  "data": "2026-11-27T09:48:35+00:00",
+  "sommario": "A sharp rise in Chinese solar cell shipments coincides with growing Kenyan exports of assembled and unassembled solar cells to international markets including the US, Egypt and Indonesia. The post Kenya records $576 million in Chinese solar cell imports from January-October appeared first on pv magazine Global .",
+  "fonte": "pv magazine",
+  "italia": false,
+  "punti": 11
+ },
+ {
   "titolo": "New graphite could enable faster charging",
   "link": "https://www.electrive.com/2026/11/25/new-graphite-could-enable-faster-charging/",
   "data": "2026-11-25T13:30:00+00:00",
   "sommario": "Researchers at Rice University in the US have developed a process that can produce synthetic graphite for fast-charging lithium-ion batteries in just 0.2 seconds. At the same time, the process could significantly reduce the synthetic graphite production energy usage and production costs of the anode material.",
   "fonte": "electrive",
   "italia": false,
-  "punti": 10
- },
- {
-  "titolo": "Accumuli, l’Italia frena: -57% di capacità installata negli ultimi 12 mesi",
-  "link": "https://www.qualenergia.it/pro/articoli-pro/accumuli-italia-frena-57-percentoi-capacita-installata-ultimi-12-mesi/",
-  "data": "2026-11-26T08:00:20+00:00",
-  "sommario": "Il mercato italiano dei sistemi di accumulo elettrochimico continua a rallentare. Le variazioni tendenziali dell’installato negli ultimi 12 mesi (YoY mobile nella tabella sotto, da ottobre 2025 a settembre 2026), rispetto ai dodici mesi precedenti (da ottobre 2024 a settembre 2025), sono tutte negative: -14% per il numero degli impianti, -39% per la potenza e […] The post Accumuli, l’Italia frena:",
-  "fonte": "QualEnergia",
-  "italia": true,
   "punti": 10
  },
  {
@@ -330,15 +330,6 @@
   "sommario": "Researchers at the South Korean Korea Advanced Institute of Science and Technology (KAIST) have developed an approach to extend the lifespan of anode-free lithium-metal batteries. They are leveraging a manufacturing process from the semiconductor industry and a coating just ten nanometers thick.",
   "fonte": "electrive",
   "italia": false,
-  "punti": 9
- },
- {
-  "titolo": "Decreto Geotermia a circuito aperto, Orsi: «È importante superare lo scoglio culturale»",
-  "link": "https://www.rinnovabili.it/energia/geotermia/geotermia-a-circuito-aperto-intervista-geologo-marco-orsi/",
-  "data": "2026-11-26T14:52:50+00:00",
-  "sommario": "Il decreto MASE n. 364 dell'11 novembre 2026 definisce le indicazioni tecniche per gli impianti geotermici a circuito aperto. Secondo il geologo Marco Orsi, il provvedimento può favorire l'uniformità delle procedure autorizzative, ma la diffusione della tecnologia dipenderà anche dal superamento delle resistenze culturali e dal sostegno ai costi iniziali. L'articolo Decreto Geotermia a circuito ap",
-  "fonte": "Rinnovabili.it",
-  "italia": true,
   "punti": 9
  },
  {
@@ -423,15 +414,6 @@
   "punti": 8
  },
  {
-  "titolo": "AI e data center, Schneider Electric amplia la capacità produttiva europea di raffreddamento a liquido",
-  "link": "https://www.rinnovabili.it/energia/infrastrutture/raffreddamento-a-liquido-data-center-europa-italia/",
-  "data": "2026-11-26T16:18:23+00:00",
-  "sommario": "Dal 2025 il mondo è entrato in una nuova era tecnologica. Perché investire nel futuro industriale dell'Europa e dell’Italia. L'articolo AI e data center, Schneider Electric amplia la capacità produttiva europea di raffreddamento a liquido proviene da Rinnovabili .",
-  "fonte": "Rinnovabili.it",
-  "italia": true,
-  "punti": 8
- },
- {
   "titolo": "Mercedes-Benz GLA test drive: compact SUV with 800-volt architecture and two-tonne towing capacity",
   "link": "https://www.electrive.com/2026/11/26/mercedes-benz-gla-test-drive-compact-suv-with-800-volt-architecture-and-two-tonne-towing-capacity/",
   "data": "2026-11-26T17:00:00+00:00",
@@ -468,6 +450,15 @@
   "punti": 8
  },
  {
+  "titolo": "Tongwei signs 846 MW module deal for Romania’s Dama Solar project",
+  "link": "https://www.pv-magazine.com/2026/11/27/tongwei-signs-846-mw-module-deal-for-romanias-dama-solar-project/",
+  "data": "2026-11-27T10:00:00+00:00",
+  "sommario": "The agreement brings Tongwei’s TNC 3.0 modules to Romania’s 1.36 GWp Dama Solar development, which is expected to generate around 1,800 GWh of electricity annually. The post Tongwei signs 846 MW module deal for Romania’s Dama Solar project appeared first on pv magazine Global .",
+  "fonte": "pv magazine",
+  "italia": false,
+  "punti": 8
+ },
+ {
   "titolo": "What is holding back bidirectional EV charging as a grid resource?",
   "link": "https://www.utilitydive.com/news/what-is-holding-back-bidirectional-ev-charging-as-a-grid-resource/875766/",
   "data": "2026-11-25T11:12:22-05:00",
@@ -483,15 +474,6 @@
   "sommario": "The first concrete has been poured for the nuclear island of unit 3 at the Taishan nuclear power plant in Guangdong province, China General Nuclear has announced.",
   "fonte": "World Nuclear News",
   "italia": false,
-  "punti": 7
- },
- {
-  "titolo": "Le lezioni del solare comunitario americano per la transizione energetica",
-  "link": "https://www.rinnovabili.it/energia/comunita-energetiche-rinnovabili/comunita-energetiche-intervista-a-eric-pasi-enterprise-energy/",
-  "data": "2026-11-25T14:59:41+00:00",
-  "sommario": "Anche negli USA il community solar amplia l'accesso all'energia rinnovabile attraverso impianti fotovoltaici condivisi. L'esperienza di Enterprise Energy in Minnesota e Illinois raccontata dal CEO Eric Pasi. L'articolo Le lezioni del solare comunitario americano per la transizione energetica proviene da Rinnovabili .",
-  "fonte": "Rinnovabili.it",
-  "italia": true,
   "punti": 7
  },
  {
@@ -522,12 +504,12 @@
   "punti": 7
  },
  {
-  "titolo": "Emilia-Romagna, contributi per la riqualificazione anche energetica delle strutture ricettive",
-  "link": "https://www.qualenergia.it/pro/articoli-pro/emilia-romagna-contributi-riqualificazione-energetica-strutture-ricettive/",
-  "data": "2026-11-26T07:55:00+00:00",
-  "sommario": "La Regione Emilia-Romagna mette a disposizione 27 milioni di euro per sostenere gli investimenti delle imprese turistiche destinati all’ammodernamento delle strutture ricettive, facendo attenzione all’innovazione tecnologica e alla riduzione dei consumi energetici. Il bando (allegato in fondo) è finanziato attraverso l’azione 1.3.4 del FESR 2021-2027 e riserva una quota massima di 1 milione di eur",
-  "fonte": "QualEnergia",
-  "italia": true,
+  "titolo": "Feds back $4B project to connect eastern and western electricity grids",
+  "link": "https://www.renewableenergyworld.com/power-grid/transmission/feds-back-4b-project-to-connect-eastern-and-western-electricity-grids/",
+  "data": "2026-11-26T09:00:00+00:00",
+  "sommario": "The U.S. Department of Energy supports Grid United's $4 billion electric power line intertie in Wyoming, expected to save $39 billion over 30 years.",
+  "fonte": "Renewable Energy World",
+  "italia": false,
   "punti": 7
  },
  {
@@ -599,15 +581,6 @@
   "data": "2026-11-25T20:42:04+00:00",
   "sommario": "A Bolzano finanziano wallbox e auto elettriche, puntando esclusivamente sulla mobilità a batterie, a differenza di altre regioni… L'articolo Provincia Bolzano: la guida per la wallbox in condominio proviene da Vaielettrico .",
   "fonte": "Vaielettrico",
-  "italia": true,
-  "punti": 6
- },
- {
-  "titolo": "Rinnovabili, la guerra commerciale sulle tecnologie pulite non aiuta nessuno",
-  "link": "https://www.rinnovabili.it/energia/fotovoltaico/guerra-commerciale-tecnologie-pulite-rischi/",
-  "data": "2026-11-26T10:26:59+00:00",
-  "sommario": "La rivalità geoeconomica e le politiche protezionistiche applicate alle tecnologie per l'energia pulita rischiano di far lievitare i costi globali della lotta ai cambiamenti climatici. E a risentirne di più sarebbe proprio l’Europa. L'articolo Rinnovabili, la guerra commerciale sulle tecnologie pulite non aiuta nessuno proviene da Rinnovabili .",
-  "fonte": "Rinnovabili.it",
   "italia": true,
   "punti": 6
  },
@@ -864,15 +837,6 @@
   "punti": 5
  },
  {
-  "titolo": "Dal componente alla soluzione integrata: come ABB sta ridisegnando la transizione energetica",
-  "link": "https://www.rinnovabili.it/energia/fotovoltaico/abb-rinnovabili-transizione-energetica/",
-  "data": "2026-11-26T10:54:29+00:00",
-  "sommario": "Con Mukesh Jain, Business Development Manager Renewable Power di ABB, abbiamo approfondito i motivi dietro la scelta del gruppo multinazionale di rafforzare la presenza nel mercato delle rinnovabili. L'articolo Dal componente alla soluzione integrata: come ABB sta ridisegnando la transizione energetica proviene da Rinnovabili .",
-  "fonte": "Rinnovabili.it",
-  "italia": true,
-  "punti": 5
- },
- {
   "titolo": "Electric trucks in Europe: Why manufacturers are slowing down, and the ICCT remains optimistic",
   "link": "https://www.electrive.com/2026/11/26/electric-trucks-in-europe-why-manufacturers-are-slowing-down-and-the-icct-remains-optimistic/",
   "data": "2026-11-26T11:00:00+00:00",
@@ -972,15 +936,6 @@
   "punti": 5
  },
  {
-  "titolo": "Ireland could allow plug-in solar by mid-2027",
-  "link": "https://www.pv-magazine.com/2026/11/26/ireland-could-allow-plug-in-solar-by-mid-2027/",
-  "data": "2026-11-26T21:30:00+00:00",
-  "sommario": "Plug-in solar systems could be allowed in Ireland from June or July 2027 according to a proposal by a government-commissioned working group asked to look into safety, regulatory, and product standards for 800 W (AC) plug-in solar systems. This would mean Ireland follows other markets like the UK and Germany which also have similar frameworks. The post Ireland could allow plug-in solar by mid-2027 ",
-  "fonte": "pv magazine",
-  "italia": false,
-  "punti": 5
- },
- {
   "titolo": "The European Parliament Brings the EU One Step Closer to a Sound Investment Policy",
   "link": "https://cleantechnica.com/2026/11/26/the-european-parliament-brings-the-eu-one-step-closer-to-a-sound-investment-policy/",
   "data": "2026-11-27T04:57:21+00:00",
@@ -1053,39 +1008,12 @@
   "punti": 4
  },
  {
-  "titolo": "Baxi e G.I. Holding: dai primi accordi del 2020 ai cento giorni dall’acquisizione",
-  "link": "https://www.rinnovabili.it/mercato/le-aziende-informano/baxi-e-g-i-holding-primi-accordi-2020-cento-giorni-acquisizione/",
-  "data": "2026-11-25T16:21:16+00:00",
-  "sommario": "Un percorso industriale sviluppato in sei anni amplia le competenze per la climatizzazione commerciale e industriale. L'articolo Baxi e G.I. Holding: dai primi accordi del 2020 ai cento giorni dall’acquisizione proviene da Rinnovabili .",
-  "fonte": "Rinnovabili.it",
-  "italia": true,
-  "punti": 4
- },
- {
   "titolo": "VW ID. Cross R-Line Now Available to Order: Model Launch with 99 kW, Flagship Model with 166 kW to Follow",
   "link": "https://cleantechnica.com/2026/11/25/vw-id-cross-r-line-now-available-to-order-model-launch-with-99-kw-flagship-model-with-166-kw-to-follow/",
   "data": "2026-11-25T17:26:14+00:00",
   "sommario": "New equipment line — for a sportier character and with extensive standard equipment Now available to order in Germany — ID. Cross R-Line with 99 kW (135 PS) and 37 kWh battery Flagship model will follow in March — with 166 kW (226 PS), 52 kWh battery, 290 Nm torque, range ... [continued] The post VW ID. Cross R-Line Now Available to Order: Model Launch with 99 kW, Flagship Model with 166 kW to Fol",
   "fonte": "CleanTechnica",
   "italia": false,
-  "punti": 4
- },
- {
-  "titolo": "Materie prime, l’Italia ne importa per 20 mld di euro: come recuperare il nichel dalle industrie",
-  "link": "https://www.rinnovabili.it/economia-circolare/materie-prime-litalia-come-recuperare-nichel-dalle-industrie/",
-  "data": "2026-11-25T18:23:35+00:00",
-  "sommario": "Con la Settimana Europea per la Riduzione dei Rifiuti, torna centrale il tema dei metalli strategici che si possono recuperare nei reflui delle fabbriche. L'articolo Materie prime, l’Italia ne importa per 20 mld di euro: come recuperare il nichel dalle industrie proviene da Rinnovabili .",
-  "fonte": "Rinnovabili.it",
-  "italia": true,
-  "punti": 4
- },
- {
-  "titolo": "ENGIE cresce nel teleriscaldamento: acquisita, in Lombardia, la rete di Madesimo",
-  "link": "https://www.rinnovabili.it/mercato/le-aziende-informano/engie-teleriscaldamento-acquisita-in-lombardia-la-rete-di-madesimo/",
-  "data": "2026-11-25T18:24:19+00:00",
-  "sommario": "Principale infrastruttura energetica del Comune, la rete è alimentata prevalentemente da fonte rinnovabile, la biomassa legnosa, che copre circa il 90% del fabbisogno. L'articolo ENGIE cresce nel teleriscaldamento: acquisita, in Lombardia, la rete di Madesimo proviene da Rinnovabili .",
-  "fonte": "Rinnovabili.it",
-  "italia": true,
   "punti": 4
  },
  {
@@ -1134,15 +1062,6 @@
   "punti": 4
  },
  {
-  "titolo": "Garanzie di origine per il calore rinnovabile, aggiornate le regole applicative",
-  "link": "https://www.rinnovabili.it/energia/termico/garanzie-di-origine-termiche-aggiornate-regole-gse/",
-  "data": "2026-11-26T10:28:22+00:00",
-  "sommario": "Le nuove regole sulle Garanzie di Origine estendono la certificazione dell'energia termica rinnovabile a tutti i sistemi di distribuzione, aggiornando anche i criteri per il calore di scarto e le procedure di acquisizione delle misure. L'articolo Garanzie di origine per il calore rinnovabile, aggiornate le regole applicative proviene da Rinnovabili .",
-  "fonte": "Rinnovabili.it",
-  "italia": true,
-  "punti": 4
- },
- {
   "titolo": "Quanto risparmi a ricaricare rispetto a benzina e diesel",
   "link": "https://www.vaielettrico.it/quanto-risparmi-a-ricaricare-rispetto-a-benzina-e-diesel/",
   "data": "2026-11-26T11:10:01+00:00",
@@ -1176,15 +1095,6 @@
   "sommario": "EU-wide approval of Tesla's driver assistance system, Tesla Assisted Driving (TAD), is set to face further delays. A meeting of the relevant EU expert committee which was first scheduled for December 1 has now been postponed to December 15.",
   "fonte": "electrive",
   "italia": false,
-  "punti": 4
- },
- {
-  "titolo": "Manca l’intesa tra i leader UE sul prossimo bilancio pluriennale",
-  "link": "https://www.rinnovabili.it/mercato/politiche-e-normativa/bilancio-ue-2028-2034-manca-intesa-leader/",
-  "data": "2026-11-26T14:54:26+00:00",
-  "sommario": "L'Italia guida il gruppo dei 17 Paesi \"Amici della Coesione\". Meloni: «Siamo anni luce da una soluzione». L'articolo Manca l’intesa tra i leader UE sul prossimo bilancio pluriennale proviene da Rinnovabili .",
-  "fonte": "Rinnovabili.it",
-  "italia": true,
   "punti": 4
  },
  {
@@ -1269,6 +1179,15 @@
   "punti": 4
  },
  {
+  "titolo": "Agrivoltaico ed elettrificazione in agricoltura: dalla formazione alla sperimentazione aziendale",
+  "link": "https://www.qualenergia.it/articoli/agrivoltaico-elettrificazione-agricoltura-formazione-sperimentazione-aziendale/",
+  "data": "2026-11-27T09:45:07+00:00",
+  "sommario": "La transizione energetica in agricoltura richiede nuove tecnologie, ma anche competenze capaci di mettere in relazione il mondo dell’energia con quello delle produzioni agricole. È uno dei tanti campi occupazionali approfonditi dalla rubrica di QualEnergia.it “La formazione energetica in Italia”, che esamina i percorsi formativi e le professionalità richieste per accompagnare la trasformazione del",
+  "fonte": "QualEnergia",
+  "italia": true,
+  "punti": 4
+ },
+ {
   "titolo": "General Motors to transition to native NACS charging ports in South Korea",
   "link": "https://www.electrive.com/2026/11/25/general-motors-to-transition-to-native-nacs-charging-ports-in-south-korea/",
   "data": "2026-11-25T11:30:00+00:00",
@@ -1310,6 +1229,15 @@
   "data": "2026-11-25T16:09:13+00:00",
   "sommario": "COP31 came to a dramatic close last weekend when a coalition of nations rejected the proposed “Antalya pact”, citing its… The post Media reaction: Who is to blame for COP31 ‘failure’? appeared first on Carbon Brief .",
   "fonte": "Carbon Brief",
+  "italia": false,
+  "punti": 3
+ },
+ {
+  "titolo": "American factories are competing with data centers for power — This Week in Cleantech",
+  "link": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/american-factories-are-competing-with-data-centers-for-power-this-week-in-cleantech/",
+  "data": "2026-11-25T18:34:36+00:00",
+  "sommario": "On this episode of the This Week in Cleantech podcast, Mike, Paul and friends of the show shared what they're grateful for this year.",
+  "fonte": "Renewable Energy World",
   "italia": false,
   "punti": 3
  },
@@ -1647,6 +1575,15 @@
   "punti": 3
  },
  {
+  "titolo": "Hong Kong researchers build 27.04%-efficient perovskite solar cell via trans-interface engineering",
+  "link": "https://www.pv-magazine.com/2026/11/27/hong-kong-researchers-build-27-04-efficient-perovskite-solar-cell-via-trans-interface-engineering/",
+  "data": "2026-11-27T09:57:52+00:00",
+  "sommario": "Researchers in Hong Kong have developed vertically aligned nanolinks that penetrate both the perovskite absorber and the charge transport layer, improving charge transfer and interfacial mechanical reliability. Around 92% of the tested devices retained at least 80% of their initial efficiency after 1,400 h of operation under one-sun illumination. The post Hong Kong researchers build 27.04%-efficie",
+  "fonte": "pv magazine",
+  "italia": false,
+  "punti": 3
+ },
+ {
   "titolo": "ChargePoint's DC Fast Chargers Are Hitting The Ski Slopes",
   "link": "https://insideevs.com/news/816728/chargepoint-kassbohrer-chargers-ski-resorts/",
   "data": "2026-11-25T10:26:29+00:00",
@@ -1688,6 +1625,15 @@
   "data": "2026-11-25T13:24:05+00:00",
   "sommario": "Xpeng unveiled its Turing Physical AI Architecture at 2026 AI Day, setting 2027 for both the official release of its Iron humanoid robot and its first purpose-built robotaxi, the Yoyo-01. For details, please visit CnEVPost (cnev.co).",
   "fonte": "CnEVPost",
+  "italia": false,
+  "punti": 2
+ },
+ {
+  "titolo": "What becomes of orphaned solar? | Q&A with Otovo",
+  "link": "https://www.renewableenergyworld.com/solar/residential/what-becomes-of-orphaned-solar-qa-with-otovo/",
+  "data": "2026-11-25T15:28:29+00:00",
+  "sommario": "Otovo has completed more than 1,000 inverter replacements using Tigo Energy technology, repowering orphaned solar systems at homes and businesses.",
+  "fonte": "Renewable Energy World",
   "italia": false,
   "punti": 2
  },
@@ -1836,13 +1782,13 @@
   "punti": 2
  },
  {
-  "titolo": "This miniature electric Bentley is ridiculously cool – and actually street legal",
-  "link": "https://electrek.co/2026/11/25/this-miniature-electric-bentley-is-ridiculously-cool-and-actually-street-legal/",
-  "data": "2026-11-25T09:57:00+00:00",
-  "sommario": "If you’ve ever looked at a classic 1929 Bentley Blower and thought, “That looks great, but could it be smaller, electric, and somehow still cost six figures?” then good news: your car has arrived. Hedley Studios has completed the first 25 production Bentley Blower Jnrs, with the hand-built electric mini-cars now heading to customers. Deliveries are beginning in the UK before expanding across Europ",
+  "titolo": "Review: 2028 Volvo’s XC60/90 PHEVs get 80 miles of EV range, changing the game",
+  "link": "https://electrek.co/2026/11/27/review-2028-volvos-xc60-90-phevs-get-80-miles-of-ev-range-changing-the-game/",
+  "data": "2026-11-27T09:57:17+00:00",
+  "sommario": "Volvo flew us out to Copenhagen to drive across the bridge to Sweden to check out the upcoming 2028 XC60...",
   "fonte": "Electrek",
   "italia": false,
-  "punti": 1
+  "punti": 2
  },
  {
   "titolo": "Beyond the impasse: The quiet wins COP31 paved the way for",
