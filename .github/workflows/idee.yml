@@ -1,0 +1,28 @@
+name: Idee del giorno
+
+on:
+  schedule:
+    - cron: "15 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  idee:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install certifi
+      - run: python notizie.py --giorni 2
+      - run: python idee.py
+      - name: Salva
+        run: |
+          git config user.name "mobilewatt-idee"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A notizie idee idee.json idee-tutte.json
+          git diff --cached --quiet || { git commit -m "Idee del $(date +%d/%m)"; git push; }
